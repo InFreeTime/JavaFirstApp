@@ -1,4 +1,4 @@
-# Java first app to program konsolowy slużacy do obslugi restauracji
+# Java first app to program konsolowy służacy do obsługi restauracji
 
 1. Wyświetla liste gości
 2. Dodaje gości
